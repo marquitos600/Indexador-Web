@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\WinFormsApp1.pdb
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\x64\pdfium.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\x86\pdfium.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\WinFormsApp1.exe

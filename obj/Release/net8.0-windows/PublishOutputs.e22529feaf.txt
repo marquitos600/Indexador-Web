@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\x64\pdfium.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\x86\pdfium.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.exe
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.runtimeconfig.json
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.pdb
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\PdfiumViewer.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\nl\PdfiumViewer.resources.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\AxWMPLib.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WMPLib.dll
+C:\Users\User\source\repos\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\WinFormsApp1.deps.json
